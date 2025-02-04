@@ -1,0 +1,15 @@
+==Colors==
+Black	White
+A	a
+==Upper==
+s g r
+
+==Middle==
+w o u h t c m k p
+
+==Lower==
+d b e
+
+==Tiles==
+Background
+#
